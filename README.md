@@ -59,6 +59,8 @@
 
 
 IN YOUR PARENT COMPONENT YOU CAN CALL YOUR COMPONENT WITH editCritere PARAMETER
-        <app-form-details [editCritere]="editCritere" ></app-form-details>
+       
+       
+       <app-form-details [editCritere]="editCritere" ></app-form-details>
 
   
